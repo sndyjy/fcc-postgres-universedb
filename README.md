@@ -61,11 +61,3 @@ After setting up the database:
   SELECT * FROM planets WHERE star_id = [star_id];
   ```
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
